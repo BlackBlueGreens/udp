@@ -1,0 +1,14 @@
+
+`	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(“¨
+Y
+java:S1854,"<Remove this useless assignment to local variable "sentence".(Î´ò8Ğ‘ùã¼0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÙĞ©üÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ƒˆñê
+J
+java:S1481,"-Remove this unused "sentence" local variable.(Î´ò8Ö‘ùã¼0
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(·»…£
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(ü
+=
+java:S2189'""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

@@ -1,0 +1,18 @@
+
+`	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+X
+java:S18546"=Remove this useless assignment to local variable "wordCount".(éøÒÂøÿÿÿÿ
+S
+java:S11175"8Rename "type" which hides the field declared at line 16.(ÝÕªãþÿÿÿÿ
+I
+java:S14816".Remove this unused "wordCount" local variable.(éøÒÂøÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(„ü±¢ýÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(†ì™•ÿÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(  Ì‰
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ùàèü8”¨ªï¼0
+I
+java:S1121".Extract the assignment out of this expression.(ñþìÁúÿÿÿÿ
+D
+java:S1121".Extract the assignment out of this expression.(Ñ¢þ´
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¤¹˜
