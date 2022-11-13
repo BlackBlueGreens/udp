@@ -1,0 +1,7 @@
+TODO:
+//further generalization of server and client class (combining each stage operation in both classes into 1 in the general class)
+    -Symmetry in the task by server and answer by client to reduce code: when when task stage from client is valid
+    set the boolean value for variable 'stage 1'in general class to true, if true then in server class trigger dispatch
+    of task to client (stage 1)
+    when dispatch of task in server is triggered, then set 'stage 2' boolean value to true in general class and perform
+    stage 2 operations in both server and client... continue this way.

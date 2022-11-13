@@ -11,12 +11,8 @@ import java.io.InputStreamReader;
 public class ClientRunner {
     public static void main(String[] args) {
         try {
-            System.out.print("Enter a message: ");
-            BufferedReader userInput = new BufferedReader(new InputStreamReader(System.in));
-            String messageToSend = userInput.readLine();
-
             UdpClient client = new UdpClient();
-            client.run(messageToSend);
+            client.run();
         } catch (IOException e) {
             System.out.println("Failed while reading user input, aborting...");
         }
